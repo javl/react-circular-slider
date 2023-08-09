@@ -179,7 +179,7 @@ import { ReactComponent as EmojiIcon } from './assets/emoji.svg';
 					continuous={{
 						enabled: true,
 						clicks: 100,
-						increment: 1,
+						interval: 1,
 					}}
 				/>
 			</div>
@@ -195,7 +195,7 @@ import { ReactComponent as EmojiIcon } from './assets/emoji.svg';
 	continuous={{
 		enabled: true,
 		clicks: 100
-		increment: 1,
+		interval: 1,
 	}}
 />`}
 			</pre>
